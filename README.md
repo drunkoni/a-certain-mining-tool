@@ -14,8 +14,3 @@ git clone https://github.com/drunkoni/social-search.git
 ```bash
 pip3 install -r requirements.txt
 ```
-
-3. Create secrets.py and put your twitter tokens in the file
-```bash
-cat scripts/Twitter/secret.py.example > scripts/Twitter/secret.py
-```
