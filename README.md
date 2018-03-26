@@ -3,7 +3,7 @@ Python twitter data mining tool
 
 
 # Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
