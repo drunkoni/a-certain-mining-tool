@@ -6,7 +6,7 @@ env/
 .vscode
 
 # Twitter tokens
-scripts/Twitter/secret.py
+secret.py
 
 # csv output
-scripts/Twitter/tweets.csv
+*.csv
