@@ -1,7 +1,6 @@
-Python twitter data mining tool
+A certain data mining tool
 ===============================
-Python scripts to mine data from twitter to a csv output.
-
+Python scripts to mine data.
 
 This script only works on python3.
 # Setup
