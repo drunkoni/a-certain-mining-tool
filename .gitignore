@@ -1,1 +1,12 @@
-./scripts/Twitter/secret.py
+# Cache
+__pycache__/
+
+# Environments
+.env
+.vscode
+
+# Twitter tokens
+scripts/Twitter/secret.py
+
+# csv output
+scripts/Twitter/tweets.csv
