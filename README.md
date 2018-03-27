@@ -2,12 +2,12 @@ A certain data mining tool
 ===============================
 Python scripts to mine data.
 
-This script only works on python3.
+This script only works with python3.
 # Setup
 
 1. clone this repository
 ```bash
-git clone https://github.com/drunkoni/social-search.git
+git clone https://github.com/drunkoni/a-certain-mining-tool.git
 ```
 
 2. Install dependencies
