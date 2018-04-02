@@ -1,16 +1,19 @@
-A certain data mining tool
-===============================
+# A certain data mining tool
+
 Python scripts to mine data.
 
 This script only works with python3.
-# Setup
 
-1. clone this repository
+## Setup
+
+clone this repository
+
 ```bash
 git clone https://github.com/drunkoni/a-certain-mining-tool.git
 ```
 
-2. Install dependencies
+Install dependencies
+
 ```bash
 pip3 install -r requirements.txt
 ```
