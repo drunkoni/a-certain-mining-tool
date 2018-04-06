@@ -6,7 +6,7 @@ import string
 import pprint
 
 
-def search(keyword):
+def search(keyword, count):
     """
     Search for tweets via a keyword and output the data to a csv file
     """
@@ -41,7 +41,8 @@ def search(keyword):
     print("Tweets successfully saved in a csv file!")
 
 keyword = input("Put your keyword: ")
-search(keyword)
+count = int(input("Put the result count: "))
+search(keyword, count)
 
 
 
